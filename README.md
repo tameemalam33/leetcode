@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tameemalam33/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/tameemalam33/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
