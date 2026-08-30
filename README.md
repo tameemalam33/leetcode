@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tameemalam33/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tameemalam33/leetcode/tree/master/0009-palindrome-number) |
 ## String
 |  |
